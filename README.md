@@ -7,6 +7,7 @@
   </h1>
 </a>
 
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 [![Build Status - Cirrus][]][Build status]
 [![Discord badge][]][Discord instructions]
 [![Twitter handle][]][Twitter badge]
